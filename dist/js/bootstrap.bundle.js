@@ -4226,8 +4226,8 @@
    * Constants
    */
 
-  const NAME$7 = 'modal';
-  const DATA_KEY$4 = 'bs.modal';
+  const NAME$7 = 'bs5modal';
+  const DATA_KEY$4 = 'bs5.modal';
   const EVENT_KEY$4 = `.${DATA_KEY$4}`;
   const DATA_API_KEY$2 = '.data-api';
   const ESCAPE_KEY$1 = 'Escape';
@@ -4248,7 +4248,7 @@
   const OPEN_SELECTOR$1 = '.modal.show';
   const SELECTOR_DIALOG = '.modal-dialog';
   const SELECTOR_MODAL_BODY = '.modal-body';
-  const SELECTOR_DATA_TOGGLE$2 = '[data-bs-toggle="modal"]';
+  const SELECTOR_DATA_TOGGLE$2 = '[data-bs5-toggle="modal"]';
   const Default$6 = {
     backdrop: true,
     focus: true,
