@@ -4024,8 +4024,8 @@
    * Constants
    */
 
-  const NAME$1 = 'tab';
-  const DATA_KEY$1 = 'bs.tab';
+  const NAME$1 = 'bs5tab'; // default 'tab'
+  const DATA_KEY$1 = 'bs5.tab'; // default 'bs.tab'
   const EVENT_KEY$1 = `.${DATA_KEY$1}`;
   const EVENT_HIDE$1 = `hide${EVENT_KEY$1}`;
   const EVENT_HIDDEN$1 = `hidden${EVENT_KEY$1}`;
